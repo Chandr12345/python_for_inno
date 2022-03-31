@@ -1,5 +1,4 @@
 def return_value():
-    """Функция возвращает переменную"""
     hello = 'Hello'
     return hello
 
