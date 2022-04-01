@@ -2,6 +2,21 @@
 
 🎥 Course developed by Kylie Ying. Check out her YouTube channel: https://www.youtube.com/ycubed 
 
+## Lesson 0
+
+https://www.youtube.com/watch?v=qiK7z_dbjxQ
+
+### Links
+
+[python](https://www.python.org/downloads/)
+
+[pycharm](https://www.jetbrains.com/ru-ru/pycharm/download)
+
+[pytest на хабр](https://habr.com/ru/post/448782/)
+
+[почему if __name__ == "__main__"](https://www.youtube.com/watch?v=cW_-zGG4ef4)
+
+
 ## ⭐️ Course Contents ⭐️
 
 ⌨️ ([1:40](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)) 1. Madlibs
